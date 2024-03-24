@@ -8,5 +8,8 @@
    },
    "[json]": {
       "editor.defaultFormatter": "biomejs.biome"
+   },
+   "[astro]": {
+      "editor.defaultFormatter": "astro-build.astro-vscode"
    }
 }
