@@ -26,8 +26,8 @@
    "typescript.format.insertSpaceBeforeFunctionParenthesis": false,
    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
    "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
-   "editor.insertSpaces": false,
-   "editor.detectIndentation": false,
+   "editor.insertSpaces": true,
+   "editor.detectIndentation": true,
    "[astro]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.codeActionsOnSave": {
